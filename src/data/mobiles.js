@@ -1,8 +1,21 @@
-export const mobileData = [{
+import image1 from '../data/assets/NewMobile/1.png';
+import image2 from '../data/assets/NewMobile/2.jpg';
+import image3 from '../data/assets/NewMobile/3.jpg';
+import image4 from '../data/assets/NewMobile/4.jpg';
+import image5 from '../data/assets/NewMobile/5.jpg';
+import image6 from '../data/assets/NewMobile/6.jpg';
+import image7 from '../data/assets/NewMobile/7.jpg';
+import image8 from '../data/assets/NewMobile/8.jpg';
+import image9 from '../data/assets/NewMobile/9.jpg';
+import image10 from '../data/assets/NewMobile/10.jpg';
+import image11 from '../data/assets/NewMobile/11.jpg';
+import image12 from '../data/assets/NewMobile/12.jpg';
 
+export const mobileData = [
+    {
         "id": "1",
         "product": "Mobile",
-        "image": "/assets/NewMobile/1.png",
+        "image": image1,
         "company": "Apple",
         "model": "iPhone 13 Pro",
         "price": "1099.00",
@@ -12,7 +25,7 @@ export const mobileData = [{
     {
         "id": "2",
         "product": "Mobile",
-        "image": "/assets/NewMobile/2.jpg",
+        "image": image2,
         "company": "Samsung",
         "model": "Galaxy Z Fold 3",
         "price": "1799.00",
@@ -22,7 +35,7 @@ export const mobileData = [{
     {
         "id": "3",
         "product": "Mobile",
-        "image": "/assets/NewMobile/3.jpg",
+        "image": image3,
         "company": "Google",
         "model": "Pixel 6",
         "price": "799.99",
@@ -32,7 +45,7 @@ export const mobileData = [{
     {
         "id": "4",
         "product": "Mobile",
-        "image": "/assets/NewMobile/4.jpg",
+        "image": image4,
         "company": "OnePlus",
         "model": "9 Pro",
         "price": "899.00",
@@ -42,7 +55,7 @@ export const mobileData = [{
     {
         "id": "5",
         "product": "Mobile",
-        "image": "/assets/NewMobile/5.jpg",
+        "image": image5,
         "company": "Xiaomi",
         "model": "Mi 11 Ultra",
         "price": "999.50",
@@ -52,7 +65,7 @@ export const mobileData = [{
     {
         "id": "6",
         "product": "Mobile",
-        "image": "/assets/NewMobile/6.jpg",
+        "image": image6,
         "company": "Sony",
         "model": "Xperia 1 III",
         "price": "1199.00",
@@ -62,7 +75,7 @@ export const mobileData = [{
     {
         "id": "7",
         "product": "Mobile",
-        "image": "/assets/NewMobile/7.jpg",
+        "image": image7,
         "company": "LG",
         "model": "G9 ThinQ",
         "price": "749.00",
@@ -72,7 +85,7 @@ export const mobileData = [{
     {
         "id": "8",
         "product": "Mobile",
-        "image": "/assets/NewMobile/8.jpg",
+        "image": image8,
         "company": "Motorola",
         "model": "Edge 20",
         "price": "599.99",
@@ -82,7 +95,7 @@ export const mobileData = [{
     {
         "id": "9",
         "product": "Mobile",
-        "image": "/assets/NewMobile/9.jpg",
+        "image": image9,
         "company": "Huawei",
         "model": "P50 Pro",
         "price": "1299.00",
@@ -92,7 +105,7 @@ export const mobileData = [{
     {
         "id": "10",
         "product": "Mobile",
-        "image": "/assets/NewMobile/10.jpg",
+        "image": image10,
         "company": "Oppo",
         "model": "Find X5 Pro",
         "price": "899.50",
@@ -102,7 +115,7 @@ export const mobileData = [{
     {
         "id": "11",
         "product": "Mobile",
-        "image": "/assets/NewMobile/11.jpg",
+        "image": image11,
         "company": "Nokia",
         "model": "8.4 5G",
         "price": "549.00",
@@ -112,11 +125,11 @@ export const mobileData = [{
     {
         "id": "12",
         "product": "Mobile",
-        "image": "/assets/NewMobile/12.jpg",
+        "image": image12,
         "company": "Realme",
         "model": "GT Master Edition",
         "price": "379.99",
         "category": "Electronics",
         "description": "A Realme phone designed in collaboration with a renowned designer, featuring a unique aesthetic."
     }
-]
+];

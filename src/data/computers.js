@@ -1,7 +1,23 @@
-export const computerData = [{
+import image1 from '../data/assets/Computers/1.jpg';
+import image2 from '../data/assets/Computers/2.jpg';
+import image3 from '../data/assets/Computers/3.jpg';
+import image4 from '../data/assets/Computers/4.jpg';
+import image5 from '../data/assets/Computers/5.jpg';
+import image6 from '../data/assets/Computers/6.jpg';
+import image7 from '../data/assets/Computers/7.jpg';
+import image8 from '../data/assets/Computers/8.jpg';
+import image9 from '../data/assets/Computers/9.jpg';
+import image10 from '../data/assets/Computers/10.jpg';
+import image11 from '../data/assets/Computers/11.jpg';
+import image12 from '../data/assets/Computers/12.jpg';
+
+
+
+export const computerData = [
+    {
         "id": "1",
         "product": "Computer",
-        "image": "/assets/Computers/12.jpg",
+        "image": image12, // Updated the image
         "company": "Dell",
         "model": "Inspiron 15",
         "price": "899.99",
@@ -11,7 +27,7 @@ export const computerData = [{
     {
         "id": "2",
         "product": "Computer",
-        "image": "/assets/Computers/4.jpg",
+        "image": image4,
         "company": "HP",
         "model": "Pavilion 27",
         "price": "1299.00",
@@ -21,7 +37,7 @@ export const computerData = [{
     {
         "id": "3",
         "product": "Computer",
-        "image": "/assets/Computers/3.jpg",
+        "image": image3,
         "company": "Apple",
         "model": "MacBook Air",
         "price": "1199.00",
@@ -31,7 +47,7 @@ export const computerData = [{
     {
         "id": "4",
         "product": "Computer",
-        "image": "/assets/Computers/11.jpg",
+        "image": image11,
         "company": "Lenovo",
         "model": "IdeaPad Flex",
         "price": "799.50",
@@ -41,7 +57,7 @@ export const computerData = [{
     {
         "id": "5",
         "product": "Computer",
-        "image": "/assets/Computers/5.jpg",
+        "image": image5,
         "company": "Acer",
         "model": "Predator Helios 300",
         "price": "1299.00",
@@ -51,7 +67,7 @@ export const computerData = [{
     {
         "id": "6",
         "product": "Computer",
-        "image": "/assets/Computers/6.jpg",
+        "image": image6,
         "company": "Microsoft",
         "model": "Surface Pro 7",
         "price": "999.99",
@@ -61,7 +77,7 @@ export const computerData = [{
     {
         "id": "7",
         "product": "Computer",
-        "image": "/assets/Computers/7.jpg",
+        "image": image7,
         "company": "Asus",
         "model": "ZenBook 14",
         "price": "899.00",
@@ -71,7 +87,7 @@ export const computerData = [{
     {
         "id": "8",
         "product": "Computer",
-        "image": "/assets/Computers/8.jpg",
+        "image": image8,
         "company": "Alienware",
         "model": "Aurora R10",
         "price": "1999.00",
@@ -81,7 +97,7 @@ export const computerData = [{
     {
         "id": "9",
         "product": "Computer",
-        "image": "/assets/Computers/9.jpg",
+        "image": image9,
         "company": "HP",
         "model": "EliteBook 840",
         "price": "1299.00",
@@ -91,7 +107,7 @@ export const computerData = [{
     {
         "id": "10",
         "product": "Computer",
-        "image": "/assets/Computers/10.jpg",
+        "image": image10,
         "company": "Lenovo",
         "model": "ThinkCentre M720",
         "price": "799.00",
@@ -101,7 +117,7 @@ export const computerData = [{
     {
         "id": "11",
         "product": "Computer",
-        "image": "/assets/Computers/2.jpg",
+        "image": image2,
         "company": "Dell",
         "model": "XPS 13",
         "price": "1499.00",
@@ -111,11 +127,11 @@ export const computerData = [{
     {
         "id": "12",
         "product": "Computer",
-        "image": "/assets/Computers/1.jpg",
+        "image": image1,
         "company": "Acer",
         "model": "Chromebook 14",
         "price": "349.99",
         "category": "Electronics",
         "description": "A lightweight and affordable laptop running on Chrome OS, ideal for web-based tasks."
     }
-]
+];
