@@ -1,15 +1,27 @@
 {
   "files": {
     "main.css": "/emart/static/css/main.a8be8b1c.css",
-    "main.js": "/emart/static/js/main.fabc4cbd.js",
+    "main.js": "/emart/static/js/main.180a9889.js",
     "static/js/453.2a77a906.chunk.js": "/emart/static/js/453.2a77a906.chunk.js",
+    "static/media/6.jpg": "/emart/static/media/6.5cf42a5e9d5eb522bc22.jpg",
+    "static/media/2.jpg": "/emart/static/media/2.4af1bef4dd445a06e993.jpg",
+    "static/media/10.jpg": "/emart/static/media/10.072f3d36b5a9b25fd058.jpg",
+    "static/media/1.png": "/emart/static/media/1.1320a5083f2f114d703d.png",
+    "static/media/7.jpg": "/emart/static/media/7.07f2a59ff85489211a29.jpg",
+    "static/media/8.jpg": "/emart/static/media/8.94fd408d43b766e3185e.jpg",
+    "static/media/12.jpg": "/emart/static/media/12.67a3485fc28d27ab5f25.jpg",
+    "static/media/4.jpg": "/emart/static/media/4.585cfd1020d18acad918.jpg",
+    "static/media/9.jpg": "/emart/static/media/9.06a2e7ee3a874eca3ddd.jpg",
+    "static/media/3.jpg": "/emart/static/media/3.1b40a72930b4060f2d05.jpg",
+    "static/media/11.jpg": "/emart/static/media/11.fd4cd0290d0ca4ffa4ef.jpg",
+    "static/media/5.jpg": "/emart/static/media/5.e0b8602dee518ea08671.jpg",
     "index.html": "/emart/index.html",
     "main.a8be8b1c.css.map": "/emart/static/css/main.a8be8b1c.css.map",
-    "main.fabc4cbd.js.map": "/emart/static/js/main.fabc4cbd.js.map",
+    "main.180a9889.js.map": "/emart/static/js/main.180a9889.js.map",
     "453.2a77a906.chunk.js.map": "/emart/static/js/453.2a77a906.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8be8b1c.css",
-    "static/js/main.fabc4cbd.js"
+    "static/js/main.180a9889.js"
   ]
 }
